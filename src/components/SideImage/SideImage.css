@@ -1,0 +1,17 @@
+.card__image {
+  width: 100%;
+  height: 50%;
+  border-radius: 10px 10px 0 0;
+  background-image: url("../../assets/images/image-product-mobile.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+@media (min-width: 768px) {
+  .card__image {
+    background-image: url("../../assets/images/image-product-desktop.jpg");
+    width: 50%;
+    height: 100%;
+    border-radius: 10px 0 0 10px;
+  }
+}

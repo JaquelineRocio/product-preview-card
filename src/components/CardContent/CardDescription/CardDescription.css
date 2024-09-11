@@ -1,0 +1,10 @@
+p {
+  font-size: 0.8rem;
+  margin: 0;
+}
+.card__subtitle {
+  letter-spacing: 4px;
+}
+h2 {
+  margin: 10px 0;
+}

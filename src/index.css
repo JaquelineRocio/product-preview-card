@@ -1,0 +1,33 @@
+:root {
+  --primary-font: "Montserrat", sans-serif;
+  --secondary-font: "Fraunces", serif;
+  /*Primary*/
+  --dark-cyan: hsl(158, 36%, 37%);
+  --cream: hsl(30, 38%, 92%);
+  /*Neutral*/
+  --very-dark-blue: hsl(212, 21%, 14%);
+  --dark-grayish-blue: hsl(228, 12%, 48%);
+  --White: hsl(0, 0%, 100%);
+}
+
+/* Uso de las variables */
+body {
+  font-family: var(--primary-font);
+  font-size: 14px;
+  background-color: var(--cream);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--secondary-font);
+}
+p {
+  color: var(--dark-grayish-blue);
+  line-height: 1.5;
+  font-weight: 500;
+}

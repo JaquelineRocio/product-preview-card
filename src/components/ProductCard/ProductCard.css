@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 80vh;
+}
+
+@media (min-width: 768px) {
+  .card {
+    flex-direction: row;
+    width: 700px;
+    height: 55vh;
+  }
+}

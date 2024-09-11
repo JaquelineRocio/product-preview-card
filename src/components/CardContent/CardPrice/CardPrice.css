@@ -1,0 +1,13 @@
+span {
+  font-family: var(--secondary-font);
+  display: flex;
+  align-items: center;
+
+  h1 {
+    color: var(--dark-cyan);
+    margin-right: 10px;
+  }
+  p {
+    text-decoration: line-through;
+  }
+}

@@ -1,0 +1,17 @@
+button {
+  border: none;
+  padding: 12px;
+  font-size: 0.8rem;
+  background-color: var(--dark-cyan);
+  color: var(--White);
+  width: 100%;
+  border-radius: 5px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .card__icon-cart {
+    width: 12px;
+    padding-right: 5px;
+  }
+}
