@@ -6,5 +6,5 @@ p {
   letter-spacing: 4px;
 }
 h2 {
-  margin: 10px 0;
+  color: var(--very-dark-blue);
 }
