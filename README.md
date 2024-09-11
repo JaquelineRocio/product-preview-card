@@ -27,11 +27,11 @@ Users should be able to:
 
 #### Mobile
 
-![Mobile Screenshot](./src/assets/screenshot2.jpeg)
+![Mobile Screenshot](./src/assets/images/screenshot2.jpeg)
 
 #### Desktop
 
-![Desktop Screenshot](./src/assets/screenshot1.jpeg)
+![Desktop Screenshot](./src/assets/images/screenshot1.jpeg)
 
 ## My process
 
